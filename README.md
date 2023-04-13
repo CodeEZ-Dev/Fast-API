@@ -17,7 +17,7 @@ git clone https://github.com/CodeEZ-Dev/Fast-API.git
 then
 
 
-cd fastapi-course
+cd Fast-API
 
 Then install fastapp using all flag like
 
